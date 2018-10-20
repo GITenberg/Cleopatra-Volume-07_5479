@@ -1,5 +1,5 @@
 _repo: Cleopatra-Volume-07_5479
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Queens -- Egypt -- Fiction'
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Biographical fiction'
+- GITenberg
 title: Cleopatra — Volume 07
 url: http://www.gutenberg.org/ebooks/5479
